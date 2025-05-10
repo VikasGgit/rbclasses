@@ -560,6 +560,7 @@ const DiscountCard = ({ item }) => (
       variant="outlined"
       size="medium"
       color="secondary"
+      href="#admission"
       sx={{ 
         color: 'white',
         borderColor: 'white',
