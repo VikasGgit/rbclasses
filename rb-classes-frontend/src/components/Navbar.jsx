@@ -681,7 +681,7 @@ const Navbar = () => {
     { name: "Faculty", id: "faculty" },
     { name: "Courses", id: "courses" },
     { name: "Results", id: "results" },
-    { name: "Testimonials", id: "testimonials" },
+    // { name: "Testimonials", id: "testimonials" },
     { name: "Admission", id: "admission" },
     { name: "Contact", id: "contact" }
   ];
